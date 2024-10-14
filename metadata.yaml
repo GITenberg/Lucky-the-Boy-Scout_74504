@@ -1,0 +1,34 @@
+_repo: Lucky-the-Boy-Scout_74504
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Carsey, Alice
+    gutenberg_agent_id: '6982'
+    url: http://www.gutenberg.org/2009/agents/6982
+creator:
+  author:
+    agent_name: Sherwood, Elmer
+    birthdate: 1884
+    gutenberg_agent_id: '33525'
+    url: http://www.gutenberg.org/2009/agents/33525
+description: ''
+gutenberg_issued: '2024-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74504'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn1eww&seq=1
+pgterms:marc905: 20240817120041sherwood
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Rod Crawford, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aRacine :$bWhitman Publishing Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lucky, the Boy Scout
+url: http://www.gutenberg.org/ebooks/74504
