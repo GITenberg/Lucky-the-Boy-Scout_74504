@@ -5,6 +5,9 @@ contributor:
     agent_name: Carsey, Alice
     gutenberg_agent_id: '6982'
     url: http://www.gutenberg.org/2009/agents/6982
+covers:
+- cover_type: archival
+  image_path: 74504-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Sherwood, Elmer
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '33525'
     url: http://www.gutenberg.org/2009/agents/33525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74504#Lucky-the-Boy-Scout
 gutenberg_issued: '2024-10-02'
 gutenberg_type: Text
 identifiers:
